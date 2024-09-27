@@ -2,7 +2,9 @@
 layout: default
 ---
 # About Me
-I am a 14 year old student who enjoys game development and robotics. You can find me on itch.io or my official channel [**BroBotics**]([https://www.youtube.com/@BroboticsRoboticsRobots]).
+I am a 14 year old student who enjoys game development and robotics. You can find me on itch.io or my official channel [**BroBotics**]((https://www.youtube.com/@BroboticsRoboticsRobots)). I enjoy playing games like: **PHASMOPHOBIA**, **PORTAL 1&2**, **MINECRAFT**, and **ZELDA GAMES**.
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
